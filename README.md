@@ -1,4 +1,4 @@
-## Harsh Gill
+## Hello there!
 
 I’m an undergraduate student at University of Alberta. 
 I’m highly interested in software applications and systems. 
