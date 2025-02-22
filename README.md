@@ -6,4 +6,8 @@ Some of my other interests include: Automated theorem proving, Computer Graphics
 
 [Contact me](https://www.linkedin.com/in/harsh-gill/)
 
+<div align="center" style="display: flex; flex-flow: column nowrap; width: 100%;">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical)
+
+</div>
