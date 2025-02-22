@@ -2,7 +2,7 @@
   <tr>
     <td width="50%" align="left" valign="center">
       <p>
-        ## Hello there!
+        <h1>Hello there!</h1>
         I’m an undergraduate student at the University of Alberta. I’m highly interested in software applications and systems.  
         Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture.  
       </p>
