@@ -1,6 +1,6 @@
 ## Hello there!
 
-<div align="center" style="display: flex; flex-flow: column nowrap; width: 100%;">
+<div align="center" style="display: flex; flex-flow: row nowrap; width: 100%;">
 
 I’m an undergraduate student at University of Alberta. 
 I’m highly interested in software applications and systems. 
