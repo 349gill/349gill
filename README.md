@@ -4,7 +4,9 @@
       <p>
         <h1>Hello there!</h1>
         I’m an undergraduate student at the University of Alberta. I’m highly interested in software applications and systems.  
-        Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture.  
+        Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture. 
+        <h2>Currently working on:</h2>
+        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark)](https://github.com/349gill/lane-detection)
       </p>
       <p>
         <a href="https://www.linkedin.com/in/harsh-gill/">Contact me</a>
