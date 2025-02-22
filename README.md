@@ -10,7 +10,7 @@
         <a href="https://www.linkedin.com/in/harsh-gill/">Contact me</a>
       </p>
     </td>
-    <td width="50%" align="center">
+    <td width="30%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages" width="60%"/>
     </td>
   </tr>
