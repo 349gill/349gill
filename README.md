@@ -6,14 +6,14 @@
         I’m an undergraduate student at the University of Alberta. I’m highly interested in software applications and systems.  
         Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture. 
       </p>
-      <h2>Currently working on:</h2>
+      <p>
+        <a href="https://www.linkedin.com/in/harsh-gill/">Contact me</a>
+      </p>
+      <h3>Currently working on:</h3>
       <p>
         <a href="https://github.com/349gill/lane-detection">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark" alt="Repo Card">
         </a>
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/harsh-gill/">Contact me</a>
       </p>
     </td>
     <td width="40%" align="center">
