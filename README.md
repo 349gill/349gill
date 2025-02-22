@@ -1,6 +1,6 @@
 <table width="100%">
   <tr>
-    <td width="50%" align="left" valign="center">
+    <td width="25%" align="left" valign="center">
       <h1>Hello there!</h1>
       <p>
         I’m an undergraduate student at the University of Alberta. I’m highly interested in software applications and systems.  
@@ -16,7 +16,7 @@
         </a>
       </p>
     </td>
-    <td width="40%" align="center">
+    <td width="75%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages" width="75%"/>
     </td>
   </tr>
