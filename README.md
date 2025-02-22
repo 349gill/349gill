@@ -12,7 +12,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark" alt="Top Languages"/>
     </td>
   </tr>
 </table>
