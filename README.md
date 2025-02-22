@@ -17,7 +17,7 @@
       </p>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages" width="70%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages" width="80%"/>
     </td>
   </tr>
 </table>
