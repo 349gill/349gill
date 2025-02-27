@@ -19,11 +19,11 @@ Some of my other interests include: Automated theorem proving, Computer Graphics
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical"
-      media="(max-width: 300px)"
+      media="(max-width: 200px)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut"
-      media="(min-width: 300px)"
+      media="(max-width: 200px)"
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut" alt="Top Languages" width="80%" />
   </picture>
