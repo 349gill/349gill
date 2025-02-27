@@ -11,18 +11,6 @@ Some of my other interests include: Automated theorem proving, Computer Graphics
   <a href="https://github.com/349gill/lane-detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark" alt="Repo Card"/>
   </a>
-</div>
-
-## GitHub Stats
-
-<div>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut" alt="Top Languages"/>
-  </picture>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark" alt="Top Languages"/>
 </div>
