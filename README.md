@@ -9,7 +9,7 @@ Some of my other interests include: Automated theorem proving, Computer Graphics
 
 <div align="center">
   <a href="https://github.com/349gill/lane-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark" alt="Repo Card" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark" alt="Repo Card" width="80%" />
   </a>
 </div>
 
@@ -25,6 +25,6 @@ Some of my other interests include: Automated theorem proving, Computer Graphics
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut"
       media="(min-width: 769px)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut" alt="Top Languages" width="60%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut" alt="Top Languages" width="80%" />
   </picture>
 </div>
