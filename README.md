@@ -15,7 +15,7 @@
       </a>
     </p>
   </div>
-  <div style="flex: 1; min-width: 300px; margin: 10px; text-align: center;">
+  <div style="flex: 1; min-width: 300px; margin: 10px; text-align: center; width="match-parent">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark&layout=donut-vertical" alt="Top Languages" width="80%"/>
   </div>
 </div>
