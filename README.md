@@ -14,11 +14,11 @@
         </p>
         <h2>Currently working on:</h2>
         <a href="https://github.com/349gill/lane-detection">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection&theme=dark" alt="Repo Card" width="100%"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection" alt="Repo Card" width="100%"/>
         </a>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill&theme=dark" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=349gill" alt="Top Languages" width="100%"/>
       </td>
     </tr>
   </table>
