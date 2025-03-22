@@ -2,7 +2,7 @@
   <h1>Hello there!</h1>
 </div>
 
-<div align="left" style="display: flex; flex-flow: column nowrap; width: 100%;">
+<div align="left" style="display: flex; flex-flow: row nowrap; width: 100%;">
   <a href="https://github.com/349gill/lane-detection">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=349gill&repo=lane-detection" alt="Repo Card" width="100%"/>
   </a>
