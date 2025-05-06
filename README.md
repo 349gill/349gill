@@ -7,7 +7,7 @@
     <tr>
       <td width="50%" style="vertical-align: middle;">
         <p>
-          I'm an undergraduate student at the University of Alberta. I'm highly interested in software applications and systems. Some of my other interests include: Automated theorem proving, Computer Graphics, and Computer Architecture.
+          I'm an undergraduate student at the University of Alberta, highly interested in software applications and systems.
         </p>
         <p>
           <a href="https://www.linkedin.com/in/harsh-gill/">Contact me</a>
